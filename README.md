@@ -20,7 +20,7 @@ https://classroom.google.com/c/MjI5OTg3MzMwODFa/p/MjMyMDM3MTc3MDla/details
 5. Create a branch
 
 6. Make any change to the application code (Start.html)
-  For example add your name to the title “Linus Coding Project”
+  For example add your name to the title “Diana Coding Project_first assignment”
 
 7. Commit
 
